@@ -102,6 +102,29 @@ It is highly recommended to use a virtual environment to avoid conflicts with ot
 *   **PyTorch**: 2.1.0+cu121
 *   **RDKit**: 2023.9.1
 
+### 2. Code & Dataset Download
+
+The dataset used in our paper can be downloaded from ./data/ directory.
+After downloading, please place the dataset files in the ./data/ directory. The expected structure is:
+
+BMT-EpiPred/
+├── data/
+│   ├── training_set.csv
+│   ├── test_set.csv
+│   └── ood_set.csv
+└── ...
+
+### 3. File Path
+
+The expected structure is:
+
+BMT-EpiPred/
+├── data/
+│   ├── training_set.csv
+│   ├── test_set.csv
+│   └── ood_set.csv
+└── ...
+
 
 
 
