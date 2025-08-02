@@ -38,7 +38,31 @@ BMT-EpiPred uses a shared feature encoder to create a latent representation of a
 BMT-EpiPred shows superior performance across five key metrics (Accuracy, F1, MCC, Precision, Recall) when compared to a variety of baseline machine learning models.
 
 <!-- INSERT TABLE 1 HERE -->
-<p align="center"><img src="images/Figure_5.jpg" alt="Prediction examples for in-distribution and OOD compounds" width="800"/></p>
+### Table 1: Comparative Results of Experimental Evaluations
+
+This table compares the predictive performance of our proposed models against various baselines across five standard metrics. All metrics are evaluated on the test set, where higher values indicate better performance.
+
+| Model                       | Accuracy (↑) | F1 (↑)    | MCC (↑)      | Precision (↑) | Recall (↑) |
+|:----------------------------|:------------:|:---------:|:------------:|:-------------:|:----------:|
+| SVM [26]                    | 0.870        | 0.854     | 0.599        | 0.848         | 0.874      |
+| LR                          | 0.868        | 0.858     | 0.617        | 0.858         | 0.866      |
+| NN                          | 0.847        | 0.833     | 0.522        | 0.825         | 0.858      |
+| CNN [27]                    | 0.582        | 0.646     | 0.153        | 0.717         | 0.588      |
+| VMTL [28]                   | 0.624        | 0.606     | 0.413        | **0.945**     | 0.446      |
+| PreGNN [25]                 | 0.492        | 0.600     | -0.092       | 0.613         | 0.587      |
+| MT-EpiPred [19]             | 0.870        | 0.864     | 0.660        | 0.883         | 0.853      |
+| ML (ECFP)                   | 0.728        | 0.789     | 0.405        | 0.790         | 0.789      |
+| BMT-EpiPred (Graph, ours)   | 0.845        | 0.881     | 0.660        | 0.879         | 0.883      |
+| **BMT-EpiPred (ECFP, ours)**| **0.891**    | **0.916** | **0.763**    | 0.922         | **0.909**  |
+
+---
+
+#### Model / Method Abbreviations:
+*   **LR:** Logistic Regression
+*   **NN:** Neural Network
+*   **CNN:** Convolutional Neural Network
+*   **GNN:** Graph Neural Network
+*   **ML:** Margin Likelihood (a baseline variant)
 <!-- You can create a markdown table or insert an image of the table -->
 <!-- <p align="center"><b>[Placeholder for Table 1: Comparative results of experimental evaluations]</b></p> -->
 
@@ -86,6 +110,7 @@ conda create -n bmt-epipred python=3.9
 # Activate the environment
 
 conda activate bmt-epipred
+
 
 
 
