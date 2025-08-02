@@ -74,9 +74,9 @@ To set up the environment and run the code, please follow the steps below.
 
 It is highly recommended to use a virtual environment to avoid conflicts with other projects. This project is tested with:
 
-*   **Python**: 3.9+
-*   **PyTorch**: 1.13.0+
-*   **RDKit**: 2022.09.5+
+*   **Python**: 3.11+
+*   **PyTorch**: 2.1.0+cu121
+*   **RDKit**: 2023.9.1
 
 You can create a new environment using Conda:
 ```bash
@@ -86,6 +86,7 @@ conda create -n bmt-epipred python=3.9
 # Activate the environment
 
 conda activate bmt-epipred
+
 
 
 
