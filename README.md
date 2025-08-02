@@ -102,14 +102,6 @@ It is highly recommended to use a virtual environment to avoid conflicts with ot
 *   **PyTorch**: 2.1.0+cu121
 *   **RDKit**: 2023.9.1
 
-You can create a new environment using Conda:
-```bash
-# Create a new conda environment
-conda create -n bmt-epipred python=3.9
-
-# Activate the environment
-
-conda activate bmt-epipred
 
 
 
