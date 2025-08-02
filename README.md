@@ -104,8 +104,8 @@ It is highly recommended to use a virtual environment to avoid conflicts with ot
 
 ### 2. Code & Dataset Download
 
-The dataset used in our paper can be downloaded from ./data/ directory.
-After downloading, please place the dataset files in the ./data/ directory. The expected structure is:
+The dataset used in our paper can be downloaded from `./data/` directory.
+After downloading, please place the dataset files in the `./data/` directory. The expected structure is:
 ~~~bash
 BMT-EpiPred/
 ├── data/
@@ -117,7 +117,7 @@ BMT-EpiPred/
 
 ### 3. File Path
 
-The expected structure is:
+The full experimental code can be downloaded from `./`. The expected structure is:
 ~~~bash
 BMT-EpiPred/
 ├── data/
@@ -126,6 +126,7 @@ BMT-EpiPred/
 │   └── ood_set.csv
 └── ...
 ~~~
+
 
 
 
