@@ -80,7 +80,7 @@ The model's predictions are more closely aligned with actual outcomes compared t
 <!-- INSERT FIGURE 4 HERE -->
 <p align="center"><img src="images/Figure_4.jpg" alt="Prediction examples for in-distribution and OOD compounds" width="800"/></p>
 <!-- <img src="path/to/figure4.png" alt="Calibration Curves" width="800"/> -->
-<p align="center"><b>[Image Placeholder for Figure 4: Model calibration curves]</b></p>
+<!-- <p align="center"><b>[Image Placeholder for Figure 4: Model calibration curves]</b></p> -->
 
 ### Application in Practice
 
@@ -106,24 +106,27 @@ It is highly recommended to use a virtual environment to avoid conflicts with ot
 
 The dataset used in our paper can be downloaded from ./data/ directory.
 After downloading, please place the dataset files in the ./data/ directory. The expected structure is:
-
+~~~bash
 BMT-EpiPred/
 ├── data/
 │   ├── training_set.csv
 │   ├── test_set.csv
 │   └── ood_set.csv
 └── ...
+~~~
 
 ### 3. File Path
 
 The expected structure is:
-
+~~~bash
 BMT-EpiPred/
 ├── data/
 │   ├── training_set.csv
 │   ├── test_set.csv
 │   └── ood_set.csv
 └── ...
+~~~
+
 
 
 
