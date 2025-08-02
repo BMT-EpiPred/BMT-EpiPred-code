@@ -147,6 +147,14 @@ BMT-EpiPred-code/
 └── requirements.txt
 ~~~
 
+### 4. Run Experiments
+
+Run the two BMT-EpiPred methods or ML method by running its `***_main.py`:
+For example, run the BMT-EpiPred with ECFP method:
+~~~bash
+python -m methods.ECFP.ECFP_main
+~~~
+
 
 
 
