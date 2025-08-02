@@ -59,7 +59,7 @@ The model's predictions are more closely aligned with actual outcomes compared t
 The model can be used to screen new molecules. The example below shows predictions for two compounds. For the "in-distribution" compound (one that is similar to the training data), the model correctly predicts its active targets with high confidence. For the "OOD" compound, the model still makes predictions, but critically, it assigns them a low confidence score, correctly signaling that the results are not trustworthy.
 
 <!-- INSERT FIGURE 5 HERE -->
-<img src="images/figure_5.jpg" alt="Prediction examples for in-distribution and OOD compounds" width="800"/>
+<img src="images/Figure_5.jpg" alt="Prediction examples for in-distribution and OOD compounds" width="800"/>
 <!-- <p align="center"><b>[Image Placeholder for Figure 5: Prediction examples for in-distribution and OOD compounds]</b></p> -->
 
 ## Requirements and Installation
@@ -82,4 +82,5 @@ conda create -n bmt-epipred python=3.9
 # Activate the environment
 
 conda activate bmt-epipred
+
 
