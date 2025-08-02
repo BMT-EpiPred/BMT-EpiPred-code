@@ -27,8 +27,9 @@ The model was developed using data from the ChEMBL database. The training datase
 BMT-EpiPred uses a shared feature encoder to create a latent representation of a molecule from its chemical structure (using ECFP fingerprints or a graph-based representation). This shared knowledge is then fed into multiple, independent probabilistic "prediction heads," one for each epigenetic target, to predict the activity.
 
 <!-- INSERT FIGURE 2 HERE -->
+<p align="center"><img src="images/Figure_2.jpg" alt="BMT-EpiPred model architecture" width="800"/></p>
 <!-- <img src="path/to/figure2.png" alt="Model Architecture" width="800"/> -->
-<p align="center"><b>[Image Placeholder for Figure 2: BMT-EpiPred model architecture]</b></p>
+<!-- <p align="center"><b>[Image Placeholder for Figure 2: BMT-EpiPred model architecture]</b></p> -->
 
 ## Performance Highlights
 
@@ -37,20 +38,23 @@ BMT-EpiPred uses a shared feature encoder to create a latent representation of a
 BMT-EpiPred shows superior performance across five key metrics (Accuracy, F1, MCC, Precision, Recall) when compared to a variety of baseline machine learning models.
 
 <!-- INSERT TABLE 1 HERE -->
+<p align="center"><img src="images/Figure_5.jpg" alt="Prediction examples for in-distribution and OOD compounds" width="800"/></p>
 <!-- You can create a markdown table or insert an image of the table -->
-<p align="center"><b>[Placeholder for Table 1: Comparative results of experimental evaluations]</b></p>
+<!-- <p align="center"><b>[Placeholder for Table 1: Comparative results of experimental evaluations]</b></p> -->
 
 ### Uncertainty and Confidence
 
 A core strength of the model is its well-calibrated uncertainty. As shown below, the model's performance metrics (like accuracy) improve as we filter for higher-confidence predictions, demonstrating that its uncertainty measure is reliable.
 
 <!-- INSERT FIGURE 3 HERE -->
+<p align="center"><img src="images/Figure_3.jpg" alt="Performance metrics under varying confidence scores" width="800"/></p>
 <!-- <img src="path/to/figure3.png" alt="Performance vs Confidence" width="800"/> -->
-<p align="center"><b>[Image Placeholder for Figure 3: Performance metrics under varying confidence scores]</b></p>
+<!-- <p align="center"><b>[Image Placeholder for Figure 3: Performance metrics under varying confidence scores]</b></p> -->
 
 The model's predictions are more closely aligned with actual outcomes compared to other models, as shown by the calibration curves.
 
 <!-- INSERT FIGURE 4 HERE -->
+<p align="center"><img src="images/Figure_5.jpg" alt="Prediction examples for in-distribution and OOD compounds" width="800"/></p>
 <!-- <img src="path/to/figure4.png" alt="Calibration Curves" width="800"/> -->
 <p align="center"><b>[Image Placeholder for Figure 4: Model calibration curves]</b></p>
 
@@ -82,6 +86,7 @@ conda create -n bmt-epipred python=3.9
 # Activate the environment
 
 conda activate bmt-epipred
+
 
 
 
