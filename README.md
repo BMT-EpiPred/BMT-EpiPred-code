@@ -21,8 +21,8 @@ BMT-EpiPred is a Bayesian multitask learning (MTL) framework designed to address
 The model was developed using data from the ChEMBL database. The training dataset includes 19,527 compounds and their activities against 78 epigenetic targets. For OOD detection evaluation, molecules from the QM9 and Davis datasets were used.
 
 <!-- INSERT FIGURE 1 HERE -->
-<!-- You can use a tag like this: <img src="path/to/figure1.png" alt="Data Distribution" width="800"/> -->
-<p align="center"><b>[Image Placeholder for Figure 1: Data distribution and t-SNE plots]</b></p>
+<p align="center"><img src="images/Figure_1.jpg" alt="BMT-EpiPred model architecture" width="800"/></p>
+<!-- <p align="center"><b>[Image Placeholder for Figure 1: Data distribution and t-SNE plots]</b></p> -->
 
 BMT-EpiPred uses a shared feature encoder to create a latent representation of a molecule from its chemical structure (using ECFP fingerprints or a graph-based representation). This shared knowledge is then fed into multiple, independent probabilistic "prediction heads," one for each epigenetic target, to predict the activity.
 
@@ -54,7 +54,7 @@ A core strength of the model is its well-calibrated uncertainty. As shown below,
 The model's predictions are more closely aligned with actual outcomes compared to other models, as shown by the calibration curves.
 
 <!-- INSERT FIGURE 4 HERE -->
-<p align="center"><img src="images/Figure_5.jpg" alt="Prediction examples for in-distribution and OOD compounds" width="800"/></p>
+<p align="center"><img src="images/Figure_4.jpg" alt="Prediction examples for in-distribution and OOD compounds" width="800"/></p>
 <!-- <img src="path/to/figure4.png" alt="Calibration Curves" width="800"/> -->
 <p align="center"><b>[Image Placeholder for Figure 4: Model calibration curves]</b></p>
 
@@ -86,6 +86,7 @@ conda create -n bmt-epipred python=3.9
 # Activate the environment
 
 conda activate bmt-epipred
+
 
 
 
