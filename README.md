@@ -96,36 +96,57 @@ To set up the environment and run the code, please follow the steps below.
 
 ### 1. Environment Setup
 
-It is highly recommended to use a virtual environment to avoid conflicts with other projects. This project is tested with:
+It is highly recommended to use a virtual environment to avoid conflicts with other projects. Then install following libraries:
 
 *   **Python**: 3.11+
 *   **PyTorch**: 2.1.0+cu121
 *   **RDKit**: 2023.9.1
+*   **scikit-learn**: 1.3.1
+
+Or download `./code/requirements.txt` and run
+~~~bash
+pip install -r requirements.txt
+~~~
 
 ### 2. Code & Dataset Download
 
-The dataset used in our paper can be downloaded from `./data/` directory.
-After downloading, please place the dataset files in the `./data/` directory. The expected structure is:
+The dataset used in our paper can be downloaded from `./code/dataset` directory.
+After downloading, please place the dataset files in the `./code/dataset` directory. The expected structure is:
 ~~~bash
-BMT-EpiPred/
-├── data/
-│   ├── training_set.csv
-│   ├── test_set.csv
-│   └── ood_set.csv
+BMT-EpiPred-code/
+├── dataset/
+│   ├── HME_dataset/
+│       ├── split/
+│       ├── task_split/
+│       ├── active_inactive_statistics.csv
+│       ├── compounds_list.csv
+│       ├── datapoints.csv
+│       ├── Distribution of Known Assosiation per compound.xlsx
+│       ├── protein_list.csv
+│       ├── train_80_0_penalty.txt
+│       ├── train_80_1_penalty.txt
+│       └── train_80_2_penalty.txt
 └── ...
 ~~~
 
 ### 3. File Path
 
-The full experimental code can be downloaded from `./`. The expected structure is:
+The full experimental code can be downloaded from `./code`. The expected structure is:
 ~~~bash
-BMT-EpiPred/
-├── data/
-│   ├── training_set.csv
-│   ├── test_set.csv
-│   └── ood_set.csv
-└── ...
+BMT-EpiPred-code/
+├── chemprop/
+├── compared_experiments/
+├── dataset/
+├── methods/
+│   ├── ECFP/
+│   ├── Graph/
+│   ├── ML/
+├── config.py
+├── dataset.py
+├── load_davis.py
+└── requirements.txt
 ~~~
+
 
 
 
