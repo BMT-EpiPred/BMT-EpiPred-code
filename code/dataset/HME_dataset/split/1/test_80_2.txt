@@ -1,0 +1,4 @@
+O=c1c2cccnc2sn1-c1ccc(F)cc1 1
+Cc1ccc(CN2C(=O)/C(=C3\SC(=S)N(CCCCCC(=O)O)C3=O)c3ccccc32)cc1 0
+Cc1cc2c(-c3ccco3)cnc(N[C@@H]3CCN(C)C[C@H]3C(=O)NC3CCCCC3)c2[nH]c1=O 0
+COc1ccc(CN2C(=O)/C(=C3\SC(=S)N(CCCCCC(=O)O)C3=O)c3ccccc32)cc1 0

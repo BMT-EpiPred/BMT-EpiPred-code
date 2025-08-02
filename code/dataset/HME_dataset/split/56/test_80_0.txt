@@ -1,0 +1,2 @@
+Cc1[nH]c(-c2cc(NS(C)(=O)=O)ccc2Oc2ccccc2)c2c1C(=O)CCC2 1
+Cc1[nH]c(-c2cc(S(C)(=O)=O)ccc2Oc2ccc(F)cc2F)c2c1C(=O)NCC2 0

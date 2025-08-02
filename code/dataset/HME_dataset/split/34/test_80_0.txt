@@ -1,0 +1,12 @@
+O=C(O)c1ccnc(-c2cn([C@H]3CCCN(C(=O)c4ccccc4)C3)nn2)c1 1
+CN(C)CCc1ccc(C2CCN(CCc3cnn(-c4nccc5c(=O)[nH]cnc45)c3)CC2)cc1 1
+O=c1[nH]cnc2c(-n3cc(CCN4CCC(c5ccc(Cl)cc5)CC4)cn3)nccc12 1
+CN(C)NC(=O)CCC(=O)O 1
+CCCCCCCCCC(=O)N(O)CCC(=O)O 1
+O=C([O-])c1ccnc(-c2cn(Cc3ccccc3)nn2)c1.[K+] 1
+CN(C)N(C)C(=O)CCC(=O)O 1
+O=C(O)c1ccnc(-c2c[nH]nn2)c1 1
+CCCC(=O)N1CC(n2cc(-c3cc(C(=O)O)ccn3)nn2)C1 0
+CN(CCc1cnn(-c2nccc3c(=O)[nH]cnc23)c1)Cc1ccc(F)cc1 0
+O=C(O)c1ccnc(-c2cc(NC(=O)c3ccc(O)cc3)ccc2O)c1 0
+CCn1cc(-c2cc(C(=O)[O-])ccn2)nn1.[K+] 0

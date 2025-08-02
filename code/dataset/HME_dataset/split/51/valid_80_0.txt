@@ -1,0 +1,7 @@
+Nc1ccc(O)c2ccncc12 1
+Nc1cccc2ccccc12 0
+O=C(O)c1c(O)cccc1CCCCCCCCCCCO 0
+CS(=O)(=O)Nc1ccc(O)c2ccccc12 0
+NC(=O)c1ccc(O)c2ccccc12 0
+C=CC/C=C\C/C=C\CCCCCCCc1cccc(O)c1C(=O)O 0
+COc1ccc(CNS(=O)(=O)c2ccc(/C=C/c3nc4ccccc4s3)cc2)cc1 0

@@ -1,0 +1,2 @@
+CCS(=O)(=O)Nc1cc(-c2cn(C)c3c(=O)[nH]ccc23)cc2c1ccn2C(C)(c1ccccn1)c1ccccn1 1
+CC(=O)N1c2ccc(C3=CCNCC3)cc2N(Cc2ccccc2CO)C[C@@H]1C1CC1 0

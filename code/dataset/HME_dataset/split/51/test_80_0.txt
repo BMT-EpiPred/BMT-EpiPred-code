@@ -1,0 +1,8 @@
+CCN(CC)S(=O)(=O)c1ccc(/C=C/c2nc3cc(C)c(C)cc3s2)cc1 1
+N#Cc1c(-c2ccccc2)cc(-c2cccs2)nc1SCC(=O)NCC(=O)O 0
+CCN(CC)S(=O)(=O)c1ccc(/C=C/c2nc3ccccc3s2)cc1C 0
+Cl.NNc1ccc(F)cc1 0
+CCCCCCCCCCc1cccc(O)c1C(=O)O 0
+CC(=O)Oc1ccc(N)c2ccccc12 0
+O=S(=O)(Nc1ccccc1)c1ccc(/C=C/c2nc3ccccc3s2)cc1 0
+CCN(CC)S(=O)(=O)c1ccc(/C=C/c2nc3cc(Br)ccc3s2)cc1 0

@@ -1,0 +1,5 @@
+CN1CCN(/C=C2\CCn3c2nc(=O)c2c(Cl)cccc23)CC1 1
+CCCc1[nH]nc2oc(=O)c3ccccc3c12 1
+O=C(/C=C/N1CC2CC1CN2c1ccccn1)c1ccccc1O 1
+Cc1ccc(-c2nn3c(C)nnc3c3ccccc23)cc1S(=O)(=O)N(C)C 0
+CNS(=O)(=O)c1cc(-c2nn3c(C)nnc3c3ccccc23)ccc1C 0

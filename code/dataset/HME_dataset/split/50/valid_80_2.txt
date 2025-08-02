@@ -1,0 +1,5 @@
+Nc1ncnc2c1ncn2[C@@H]1O[C@H](CSCC[C@H](N)C(=O)O)[C@@H](O)[C@H]1O 1
+O=C(c1cccc(Br)c1)N1CCCC2(CCNCC2)C1 0
+O=C(c1cccc(Br)c1)N1CCCC2(CCCCN2)C1 0
+CN1CCCCC12CCN(C(=O)c1cccc(Br)c1)CC2 0
+CN1CCCC2(CCCN2C(=O)c2cccc(Br)c2)C1 0

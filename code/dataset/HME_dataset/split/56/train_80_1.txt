@@ -1,0 +1,9 @@
+Cc1[nH]c(-c2cc(NS(C)(=O)=O)ccc2Oc2ccccc2)c2c1C(=O)CCC2 1
+CNC(=O)c1cc(C(=O)N[C@@H]2[C@H]3COC[C@H]32)cc2c1O[C@H](CF)[C@H]2c1ccccc1 0
+Cc1[nH]c(-c2cc(S(C)(=O)=O)ccc2Oc2ccc(F)cc2F)c2c1C(=O)NCC2 0
+COCc1nc2cnc3cc(-c4c(C)noc4C)c(OC[C@H]4CCNC4)cc3c2n1[C@H](C)c1ccccc1 0
+CNC(=O)c1cc(C(=O)NC2CC2)cn(Cc2ccccc2)c1=O 0
+CC(=O)N1c2ccc(-c3ccc(C(=O)O)cc3)cc2[C@H](Nc2ccc(Cl)cc2)C[C@@H]1C 0
+Cc1cc2c(-c3ccco3)cnc(N[C@@H]3CCN(C)C[C@H]3C(=O)NC3CCCCC3)c2[nH]c1=O 0
+Cc1ccc2ncccc2c1-c1cc(-c2c(C)noc2C)cc2nc(C3CC3)[nH]c12 0
+Cn1cc(-c2cc(S(C)(=O)=O)ccc2Oc2ccc(F)cc2F)c2cc[nH]c(=O)c21 0

@@ -1,0 +1,7 @@
+Nc1ccc(O)c2ccncc12 1
+CCN(CC)S(=O)(=O)c1ccc(/C=C/c2nc3cc(Br)ccc3s2)cc1 0
+CCCCCCCCCCc1ccc(O)c(C(=O)O)c1 0
+N#Cc1ccc(N)c2ccccc12 0
+CCc1nnc(NC(=O)CCSCCC(=O)Nc2nnc(CC)s2)s1 0
+O=S(=O)(Nc1ccccc1)c1ccc(/C=C/c2nc3ccccc3s2)cc1 0
+CC1=NN(c2ccc(C(=O)O)cc2)C(=O)/C1=C/c1ccc(-c2cc(C)c(C)cc2[N+](=O)[O-])o1 0

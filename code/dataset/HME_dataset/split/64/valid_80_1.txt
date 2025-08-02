@@ -1,0 +1,4 @@
+COc1cc(-c2cn(C)c(=O)c3cnccc23)c(OC)cc1CN(C)C 1
+COc1cc(-c2cn(C)c(=O)c3cncnc23)cc(OC)c1CN(C)C 1
+COc1cc(-c2cn(C)c(=O)c3ccccc23)cc(OC)c1CN(C)C 1
+CNC(=O)c1cc(C(=O)NC2CC2)cn(Cc2ccccc2)c1=O 0

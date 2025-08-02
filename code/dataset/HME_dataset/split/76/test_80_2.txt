@@ -1,0 +1,8 @@
+O=C1c2ccccc2OC(c2ccccc2[N+](=O)[O-])C1(I)[N+](=O)[O-] 1
+O=C1c2ccccc2OC(c2ccccc2[N+](=O)[O-])C1(Cl)[N+](=O)[O-] 1
+Nc1ncnc2c1ncn2[C@@H]1O[C@H](CS[C@@H]2CN[C@H](C(=O)O)C2)[C@@H](O)[C@H]1O 1
+COc1cc(CNc2ncnc3c2ncn3[C@@H]2O[C@H](CSCCC(N)C(=O)O)[C@@H](O)[C@H]2O)cc(OC)c1 1
+CN(Cc1cccnc1)C(=O)CCc1cccc(-c2nc3c(N)ncnc3[nH]2)c1 0
+Nc1ncnc2c1ncn2[C@@H]1O[C@H](CS[C@@H]2CCC[C@@H]2N)[C@@H](O)[C@H]1O 0
+CSc1nc(N)c2ncn([C@@H]3O[C@H](CSCCC(N)C(=O)O)[C@@H](O)[C@H]3O)c2n1 0
+Nc1ncnc2c1ncn2[C@@H]1O[C@H](CSC[C@H]2CCCN2)[C@@H](O)[C@H]1O 0

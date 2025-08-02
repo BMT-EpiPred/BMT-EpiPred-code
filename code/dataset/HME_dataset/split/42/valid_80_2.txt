@@ -1,0 +1,4 @@
+CN(CCN)Cc1c[nH]nc1-c1ccc(N2CCN(C(=O)Cc3ccccc3)CC2)cc1 1
+CNCCN(C)Cc1n[nH]cc1-c1ccc(Oc2cccc(C(=O)N(C)C)c2)cc1 1
+CNC[C@@H](O)CN1CCc2c(cccc2OCc2ccc(-c3nccs3)cc2)C1 1
+CNCCNC1CCN(c2cccc(-c3ccnc(C)n3)c2)CC1 0

@@ -1,0 +1,2 @@
+CNC(=O)c1ccc(-c2cc3cccc(-c4nn(C5CCOCC5)c5c4CN(C(C)=O)CC5)c3cn2)cn1 1
+CNC(=O)c1cc(C(=O)N[C@@H]2[C@H]3COC[C@H]32)cc2c1O[C@H](CF)[C@H]2c1ccccc1 0

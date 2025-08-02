@@ -1,0 +1,4 @@
+Cc1ccsc1CNc1cnccc1C(=O)O 1
+N#Cc1cnn2c1nc(O)c1cccc(N)c12 1
+CS(=O)(=O)c1ccc2c(O)nc3c(C#N)cnn3c2c1 0
+N#Cc1cnn2c1nc(O)c1ccccc12 0

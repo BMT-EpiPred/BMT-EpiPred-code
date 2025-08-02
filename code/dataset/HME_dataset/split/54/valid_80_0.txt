@@ -1,0 +1,2 @@
+Cc1cncc(-c2ccc(N[C@@H]3CCNC[C@H]3OCC3CCS(=O)(=O)CC3)c3[nH]c(=O)c(C)cc23)c1 1
+Cc1cc2c(-c3ccco3)cnc(N[C@@H]3CCN(C)C[C@H]3C(=O)NC3CCCCC3)c2[nH]c1=O 0

@@ -1,0 +1,4 @@
+O=C(Nc1ccnc(Cl)c1)Nc1cc(C(F)F)ns1 1
+CCC(/C=C1\CCn2c1nc(=O)c1c(Cl)cccc12)CC 1
+O=C(Nc1cc(C(F)F)ns1)Nc1cc(F)ncc1CO 1
+CC(=O)N1c2ccc(C3=CCNCC3)cc2N(Cc2ccccc2CO)C[C@@H]1C1CC1 0

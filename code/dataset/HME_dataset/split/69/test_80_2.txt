@@ -1,0 +1,5 @@
+COc1cc2c(cc1NS(=O)(=O)c1ccc(Br)cc1C)n(C)c(=O)n2C 1
+COc1cc2c(cc1NS(=O)(=O)c1ccc(C#N)cc1)c(C)cc(=O)n2C 1
+COc1cc(C#N)ccc1S(=O)(=O)Nc1ccc2c(c1)cc(C(C)C)c(=O)n2C 1
+CCc1cc2cc(NS(=O)(=O)c3ccc(C#N)cc3)ccc2n(CC)c1=O 0
+COc1ccccc1C(=O)Nc1cc2c(cc1N1CCNC[C@H]1C)n(C)c(=O)n2C 0

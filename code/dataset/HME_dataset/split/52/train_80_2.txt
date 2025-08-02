@@ -1,0 +1,12 @@
+O=C(Nc1cccc([N+](=O)[O-])c1)Nc1ccc2nccnc2c1 1
+O=C(Nc1cccc([N+](=O)[O-])c1)Nc1nc(-c2ccccc2)cs1 1
+CN(C)c1ccc(NC(=O)Nc2cccc([N+](=O)[O-])c2)cc1 1
+O=C(Nc1cccc([N+](=O)[O-])c1)Nc1ccc2c(c1)OCCO2 1
+O=C(Nc1cccc([N+](=O)[O-])c1)Nc1ccc2cccnc2c1 1
+O=C(Nc1ccc2cncnc2c1)Nc1ccc2nnsc2c1 1
+O=C(Nc1ccc(Cl)c(Cl)c1)Nc1ccc2nnsc2c1 1
+O=C(NCC(=O)N1CCCCC1)Nc1ccc2nnsc2c1 0
+C=C(C)C(=O)Nc1ccc(-c2nc3cc(NC(=O)C(=C)C)ccc3[nH]2)cc1 0
+O=C(Nc1ccc2nnsc2c1)N(O)c1ccccc1 0
+O=C(Nc1cccc([N+](=O)[O-])c1)Nc1ccc2c(c1)C(=O)CC2 0
+Cc1ccc2nc(-c3ccc(NC(=O)c4ccc([N+](=O)[O-])o4)cc3)oc2c1 0

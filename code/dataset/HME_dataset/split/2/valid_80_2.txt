@@ -1,0 +1,9 @@
+O=C(NO)c1cccc(O)c1 1
+O=C(O)c1ccncc1NCc1ccccc1 1
+O=C(O)CCC(=O)NO 1
+Cl.N[C@H]1C[C@@H]1c1ccc(NC(=O)CCCCNC(=O)c2ccc(O)c3ncccc23)cc1 1
+Cc1ccsc1CNc1ncccc1C(=O)O 0
+O=C([O-])c1ccnc(-c2cn(Cc3ccccc3)nn2)c1.[K+] 0
+[N-]=[N+]=Nc1ccc(C(=O)N[C@@H](CCCCNC(=O)COCCOCCNC(=O)CCCC[C@@H]2SC[C@@H]3NC(=O)N[C@@H]32)C(=O)NCCCNC(=O)c2ccc(O)c3ncccc23)cc1 0
+O=C(O)c1ccnc(-c2cn(C3CCN(C(=O)Cc4ccccc4)C3)nn2)c1 0
+CCCCCCCCOC(=O)c1ccc(O)c2ncccc12 0

@@ -1,0 +1,4 @@
+C=CC(=O)Nc1cccc(-c2c[nH]cc2CN(C)CCN)c1 1
+CNCCN1CCC(OCc2cccc(-c3ccccc3)c2)CC1 1
+CN(CCN)Cc1c[nH]nc1-c1ccc(OCCCN2CCOCC2)cc1 1
+COC(=O)c1ccccc1NC(=O)CSc1nc2cc(OC)ccc2[nH]1 0

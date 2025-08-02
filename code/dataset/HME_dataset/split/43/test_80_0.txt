@@ -1,0 +1,8 @@
+O=c1[nH]cnc2c(-n3cc(CCN4CCC(c5cc(Cl)cc(Cl)c5)CC4)cn3)nccc12 1
+O=C(O)c1ccnc(-c2cn(CCc3ccccc3)nn2)c1 1
+O=C(O)c1ccnc(-c2ccccn2)c1 1
+CCC(=O)N1CCCC(n2cc(-c3cc(C(=O)O)ccn3)nn2)C1 0
+Cn1cc(-c2cc(C(=O)[O-])ccn2)nn1.[K+] 0
+CCOC(=O)N1CCC(n2cc(-c3cc(C(=O)O)ccn3)nn2)CC1 0
+O=C([O-])c1ccnc(-c2cn(Cc3ccccc3)nn2)c1.[K+] 0
+CCCCN(C)CCCCC(=O)N(O)CCC(=O)O 0

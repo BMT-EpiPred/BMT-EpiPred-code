@@ -1,0 +1,8 @@
+CN1C[C@H](Nc2nc3cc[nH]c3c(=O)n2C)C[C@H](c2ccc3c(c2)OCCO3)C1 1
+Cc1cc(/N=N/c2ccc(S(=O)(=O)Nc3ccccn3)cc2)c(N)cc1O 1
+Cc1[nH]c(-c2cc(NS(C)(=O)=O)ccc2Oc2ccccc2)c2c1C(=O)CCC2 1
+O=c1cc(Cl)sn1-c1ccc([N+](=O)[O-])cc1 1
+CC(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](COP(=O)(O)O)C(=O)N[C@H](C(=O)NCC(=O)NCC(=O)N[C@@H](CCCCn1cc(CSCCNC(=O)CCNC(=O)[C@@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]2O[C@@H](n3cnc4c(N)ncnc43)[C@H](O)[C@@H]2OP(=O)(O)O)nn1)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(N)=O)[C@@H](C)O 0
+Cc1nn(-c2ccccc2)nc1C(N)=O 0
+COc1cc(/C=C/c2cc(/C=C/c3ccc(O)c(OC)c3)n(-c3ccc(C(=O)[O-])cc3)n2)ccc1O.[Na+] 0
+COc1ccc2c(c1)c(C(=O)Nc1cc(C(=O)O)cc(-c3cnn(C)c3)c1F)cn2C(C)=O 0

@@ -1,0 +1,8 @@
+COc1cc(CNc2ncnc3c2ncn3[C@@H]2O[C@H](CSCCC(N)C(=O)O)[C@@H](O)[C@H]2O)cc(OC)c1 1
+NC(CCSC[C@H]1O[C@@H](n2cnc3c(NCc4ccncc4)ncnc32)[C@H](O)[C@@H]1O)C(=O)O 1
+O=C1c2ccccc2OC(c2ccccc2[N+](=O)[O-])C1(I)[N+](=O)[O-] 1
+NC(CCSC[C@H]1O[C@@H](n2cnc3c(NCCc4ccc(-c5ccccc5)cc4)ncnc32)[C@H](O)[C@@H]1O)C(=O)O 1
+NCCSC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1O 0
+O[C@@H]1[C@@H](CS[C@H]2CCNC2)O[C@@H](n2cnc3c(NCCc4ccc(-c5ccccc5)cc4)ncnc32)[C@@H]1O 0
+N[C@@H](CCSC[C@H]1O[C@@H](n2cnc3cncnc32)[C@H](O)[C@@H]1O)C(=O)O 0
+CN1C[C@@H](SC[C@H]2O[C@@H](n3cnc4c(N)ncnc43)C(O)[C@@H]2O)C[C@H]1C(=O)O 0

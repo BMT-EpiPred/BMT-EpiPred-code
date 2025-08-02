@@ -1,0 +1,5 @@
+CNC(=O)c1cc(C(=O)N[C@@H]2[C@H]3COC[C@H]32)cc2c1O[C@H](CF)[C@H]2c1ccccc1 1
+O=c1nc2n(c3cccc(Cl)c13)CC/C2=C\N1CCCCC1 1
+CCS(=O)(=O)Nc1cc(-c2cn(C)c3c(=O)[nH]ccc23)cc2c1ccn2C(C)(c1ccccn1)c1ccccn1 1
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1ccnc(-c3c(C4CC4)n[nH]c3C)c12 0
+CCOC(=O)Nc1cc(-c2ccc(C)c(NS(C)(=O)=O)c2)nn2c(C)nnc12 0

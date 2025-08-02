@@ -1,0 +1,10 @@
+O=C(O)CCN(O)C(=O)CCCCCCCCc1ccccc1 1
+O=C(O)c1ccnc(-c2cn(CCOc3ccccc3)nn2)c1 1
+O=c1[nH]cnc2c(-n3cc(CCN4CCC(c5cc(Cl)cc(Cl)c5)CC4)cn3)nccc12 1
+Cn1cnc(-c2cc(-c3c[nH]nn3)ccn2)c1-c1ccc(F)cc1OCC1CC1 1
+O=C(O)c1ccnc(-c2cn(C3CN(C(=O)Cc4ccccc4)C3)nn2)c1 1
+Clc1ccccc1-n1cnc(-c2cc3[nH]nnc3cn2)c1 1
+N[C@@H]1C[C@H]1c1ccc(NC(=O)c2ccnc(-c3cc(C(=O)O)ccn3)c2)cc1.O=C(O)C(F)(F)F 1
+O=C(O)CCN(O)C(=O)CCCCCCCCC1CCCCCC1 0
+CC(C)c1c(-c2ccccc2)[nH]c2c(C#N)cnn2c1=O 0
+Cc1cc(C(=O)Nc2ccc(O)c(-c3cc(C(=O)O)ccn3)c2)no1 0

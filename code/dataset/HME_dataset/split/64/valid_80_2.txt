@@ -1,0 +1,4 @@
+COc1cc(-c2cn(C)c(=O)c(C)c2C)cc(OC)c1CN(C)C 1
+Cc1cc(=O)n(C)c2cc(N3C(=O)CC[C@H](NS(=O)(=O)CC(C)C)[C@H]3c3ccc(Cl)cc3)ccc12 1
+CCN1/C(=C/C(C)=O)Sc2ccc(OC)cc21 1
+CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C 0

@@ -1,0 +1,3 @@
+O=c1c2cccnc2sn1-c1ccc(F)cc1 1
+Cc1cncc(-c2ccc(N[C@@H]3CCNC[C@H]3OCC3CCS(=O)(=O)CC3)c3[nH]c(=O)c(C)cc23)c1 0
+CC(=O)Nc1c(F)cc(C(=O)N[C@H]2CC[C@H](O)CC2)cc1O[C@@H](C)c1ccccc1 0

@@ -1,0 +1,7 @@
+CC(=O)c1cc(-c2ccccn2)c2ccccn12 1
+CC(=O)c1cc(-c2ccccc2CO)c2cc(N3CCOCC3)ccn12 1
+CC(=O)c1cc(-c2ccccc2S(C)(=O)=O)c2ccccn12 1
+CC(=O)c1cc(-c2ccc(CO)cc2)c2ccccn12 1
+CNC(=O)c1cc(C(=O)NC2CC2)cn(Cc2ccccc2)c1=O 0
+Cc1cn(CCn2cnc(-c3cc(C)no3)c2-c2ccc(C#N)cc2)nn1 0
+CCOC(=O)c1cn(C)c(=O)cc1Cl 0

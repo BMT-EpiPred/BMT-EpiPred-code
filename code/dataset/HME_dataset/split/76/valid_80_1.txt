@@ -1,0 +1,7 @@
+O=C(O)[C@@H]1C[C@H](SC[C@H]2O[C@@H](n3cnc4c(NCCc5ccc(-c6ccccc6)cc5)ncnc43)[C@H](O)[C@@H]2O)CN1 1
+O=C1c2ccccc2O[C@H](c2ccccc2F)[C@@]1(Br)[N+](=O)[O-] 1
+NC(CCSC[C@H]1O[C@@H](n2cnc3c(NCCc4ccccc4)ncnc32)[C@H](O)[C@@H]1O)C(=O)O 1
+Nc1ncnc2c1ncn2[C@@H]1O[C@H](CS[C@@H]2CCNC2)[C@@H](O)[C@H]1O 0
+Nc1ccnc2c1ncn2[C@@H]1O[C@H](CSCCC(N)C(=O)O)[C@@H](O)[C@H]1O 0
+NCCCSC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1O 0
+Nc1nc(I)nc2c1ncn2[C@@H]1O[C@H](CSCCC(N)C(=O)O)[C@@H](O)[C@H]1O 0

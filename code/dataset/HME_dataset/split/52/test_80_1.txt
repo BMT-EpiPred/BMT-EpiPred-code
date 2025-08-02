@@ -1,0 +1,2 @@
+O=C(Nc1cccc([N+](=O)[O-])c1)Nc1nc(-c2ccccc2)cs1 1
+Cc1ccc2nc(-c3ccc(NC(=O)c4ccc([N+](=O)[O-])o4)cc3)oc2c1 0

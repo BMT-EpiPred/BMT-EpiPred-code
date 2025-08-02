@@ -1,0 +1,4 @@
+CCS(=O)(=O)Nc1cc(-c2cn(C)c3c(=O)[nH]ccc23)cc2c1ccn2C(C)(c1ccccn1)c1ccccn1 1
+Cc1ccc(CN2C(=O)/C(=C3\SC(=S)N(C[C@H]4CC[C@H](C(=O)O)CC4)C3=O)c3ccccc32)cc1 0
+C=C1C(=O)O[C@@H](CCC)[C@@H]1C(=O)O 0
+C=C1C(=O)O[C@@H](C(=O)O)[C@@H]1CCC 0

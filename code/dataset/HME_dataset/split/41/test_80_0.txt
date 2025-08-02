@@ -1,0 +1,6 @@
+N#C/N=C(/Nc1cccc(OC(F)F)c1)N1CC(N2CNCC2=O)C(c2ccc(Cl)cc2)=N1 1
+CCN(C(=O)CO)[C@@H]1CN(/C(=N\C#N)Nc2cccc(OC(F)F)c2)N=C1c1ccc(Cl)c(Cl)c1 1
+CCCN(C(=O)CO)C1CN(/C(=N\C#N)Nc2cccc(OC(F)F)c2)N=C1c1ccc(Cl)cc1 1
+O=C(CCNCCc1ccc(Cl)c(Cl)c1)N(CCNCCCN1CCCC1)C1CCCCC1 1
+CCN(C(=O)CO)C1CN(/C(=N\C#N)Nc2ccc(OC(F)F)cc2)N=C1c1ccc(Cl)cc1 0
+CCN(C(=O)CO)C1CN(/C(=N\C#N)Nc2cccc(OC(F)F)c2)N=C1c1ccccc1 0

@@ -1,0 +1,5 @@
+CN1C(=O)[C@@]23C[C@]4([C@]56C[C@@]78SS[C@@](CO)(C(=O)N7[C@H]5Nc5ccccc56)N(C)C8=O)c5ccccc5N[C@@H]4N2C(=O)[C@]1(CO)SS3 1
+O=C(c1cccc(Br)c1)N1CCCC2(CCNCC2)C1 0
+O=C(c1cccc(Br)c1)N1C[C@@H]2CCN[C@@H]2C1 0
+O=C1Cc2cc(C(=O)N[C@@H]3C[C@@H]4CC[C@H](C3)N4S(=O)(=O)N3CCC(NCc4ccccc4)CC3)c(Cl)cc2N1 0
+COc1ccc(CN2CCC(Nc3nc(Nc4ccc(NC(=O)CCCCCCC(=O)NO)cc4)nc4cc(OC)c(OC)cc34)CC2)cc1 0

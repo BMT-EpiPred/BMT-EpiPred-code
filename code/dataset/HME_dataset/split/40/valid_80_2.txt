@@ -1,0 +1,7 @@
+COC(=O)CCn1sc(Cl)cc1=O 1
+Cc1noc(C)c1-c1cc(O)cc(C(O)c2ccccc2)c1 1
+Cc1nnc2c(Nc3cccc(CNC(=O)C(C)C)c3)nc3ccccc3n12 1
+CN(C)c1ccc(/C=C2\SC(=S)N(CCCCCC(=O)O)C2=O)cc1 0
+O=C1c2cccnc2S(=O)(=O)N1Cc1ccc(Cl)c(Cl)c1 0
+CCCCCCCCCCCCCCCc1cccc(O)c1C(=O)O 0
+CC1=NN(c2ccc(C(=O)O)cc2)C(=O)/C1=C\c1ccc(-c2cc(C)c(C)cc2[N+](=O)[O-])o1 0

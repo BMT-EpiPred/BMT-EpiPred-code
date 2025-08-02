@@ -1,0 +1,11 @@
+NNC(=O)CCC(=O)O 1
+O=C(O)CCN(O)C(=O)CCCCCCCCC1CCCCCC1 1
+Clc1ccccc1Cn1cnc(-c2cc3[nH]nnc3cn2)c1 1
+Cc1cn2c(n1)CCN(Cc1cc(C(=O)O)ccn1)CC2 1
+CCN1CCC(CNCc2cc(C(=O)O)ccn2)C1=O 1
+Clc1cccc(Cn2cnc(-c3cc(-c4nn[nH]c4I)ccn3)c2)c1Cl 1
+c1nc(-c2cn(CC3CC3)cn2)cc2[nH]nnc12 1
+CCCCc1oc2ccccc2c1C(=O)c1cc(OC)c(OCCC[N+](C)(C)C)c(OC)c1.[I-] 0
+Cc1oc2ccccc2c1C(=O)c1ccc(OCCC[N+](C)(C)C)cc1.[I-] 0
+Cc1cc(-c2cnn(C)c2)cc(C2CCN(C(=O)c3cc(C(C)C)n[nH]3)C2)n1 0
+CC(C)c1cc(C(=O)N2CC[C@@H](NC(=O)C3CC3)C2)[nH]n1 0

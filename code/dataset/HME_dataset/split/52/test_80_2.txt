@@ -1,0 +1,2 @@
+CC(NC(=O)Nc1ccc2nnsc2c1)c1cccc(F)c1 1
+CN(Cc1cccc([N+](=O)[O-])c1)C(=O)Nc1ccc2nnsc2c1 0

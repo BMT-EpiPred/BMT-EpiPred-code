@@ -1,0 +1,4 @@
+O=c1[nH]c(Oc2cnn(CC3CCCCC3)c2)nc2cnccc12 1
+O=c1[nH]c(Oc2cnn(Cc3ccccc3)c2)nc2cnccc12 1
+N#Cc1cnn2c1nc(O)c1cccc(C(F)(F)F)c12 0
+N#Cc1cnn2c1nc(O)c1ccc(C(F)(F)F)cc12 0

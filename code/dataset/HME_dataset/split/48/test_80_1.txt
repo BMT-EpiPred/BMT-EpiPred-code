@@ -1,0 +1,5 @@
+Cl.N[C@H]1CC[C@@H](N[C@H]2[C@H]3Cc4ccccc4[C@H]32)CC1 1
+NC1CC1c1cccc(OCC[C@H](NC(=O)c2ccccc2)C(=O)NCc2ccccc2)c1 0
+N[C@@H]1C[C@H]1c1ccc(NC(=O)c2ccccc2)cc1 0
+Cl.N[C@@H]1[C@H]2Cc3cc(-c4ccccc4)ccc3[C@H]21 0
+O=C(N[C@@H](CCCCNC1CC1c1ccccc1)C(=O)NCc1cccc(C(F)(F)F)c1)c1ccc(-c2ccccc2)cc1 0
